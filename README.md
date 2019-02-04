@@ -1,4 +1,6 @@
 # AlgorithmsAndDataStructuresPratice
+Work in progress.
+
 Pratice project. Has multiple pratice problems, data structures and sorting algorithms
 
 Data structures and sorting algorithms
