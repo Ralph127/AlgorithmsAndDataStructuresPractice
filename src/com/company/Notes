@@ -1,0 +1,17 @@
+Algorithm = Instructions
+Implementation = coding the instructions
+
+Arrays
+    - Every element occupies the same amount of space.
+    - String arrays or other array objects only store the objects reference. This means they still only occupy the same amount of space.
+    - Arrays start at zero because of the equations to find the elements.
+
+Sorting
+    - Unstable array = Has duplicates yet the duplications can swap ahead of places in the array.
+    - Stable array = Duplicates stay in order relative to there position.
+
+Recursion
+    - algorithms that call itself
+    - Recursion doesn't return until it is done executing the recursion. Make sure to have a return method that doesn't call
+    the recursion when the base case is met.
+    - Java doesn't use tail recursion
