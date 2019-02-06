@@ -1,0 +1,10 @@
+Many data structures have abstract classes that you can implement to create your own data structure
+Abstract Data types
+ - Doesn't dictate how the data is organized
+ - Dictates the operations you can perform
+ - Concrete data structures is usually a concrete class
+ - Abstract data type is usually an interface
+
+
+ Tip
+ - Can right click and go to generate to automatically have code written for classes I.E. Getters/Setters, Constructors
